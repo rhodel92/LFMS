@@ -2,7 +2,7 @@
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [info@rhodelit.com](mailto:info@rhodelit.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Rhodel IT via [info@rhodelit.com](mailto:info@rhodelit.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
